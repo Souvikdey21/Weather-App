@@ -1,0 +1,45 @@
+.weather-container {
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+
+.weather {
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.temp {
+    font-size: 80px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.pressure,
+.Longitude,
+.Latitude,
+.humidity,
+.maxtemp,
+.mintemp,
+.speed {
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
+
+.name {
+    font-size: 50px;
+    margin: 0;
+    font-weight: bold;
+}
+
+body {
+    background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(we.jpg);
+    text-align: center;
+}
